@@ -1,0 +1,10 @@
+# Generated corpora and fuzz artifacts
+/corpus/
+/testdata/
+bench/incumbents/corpus/
+*.test
+*.out
+coverage.*
+/examples/compare/compare
+/bench/incumbents/incumbents
+/bench/incumbents/pyjsonbench
