@@ -1,3 +1,3 @@
-module github.com/__GH_OWNER__/pyjson
+module github.com/quietpelican42/pyjson
 
 go 1.27

@@ -55,7 +55,7 @@ Python 3.14.7 prints the second line for the same value.
 ## Installation
 
 ```
-go get github.com/__GH_OWNER__/pyjson
+go get github.com/quietpelican42/pyjson
 ```
 
 The package uses only the standard library.

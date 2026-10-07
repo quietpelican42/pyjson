@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/__GH_OWNER__/pyjson"
+	"github.com/quietpelican42/pyjson"
 )
 
 func main() {

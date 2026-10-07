@@ -3,7 +3,7 @@ package pyjson_test
 import (
 	"fmt"
 
-	"github.com/__GH_OWNER__/pyjson"
+	"github.com/quietpelican42/pyjson"
 )
 
 func ExampleDumps() {

@@ -3,7 +3,7 @@ module pyjsonbench
 go 1.27
 
 require (
-	github.com/__GH_OWNER__/pyjson v0.0.0
+	github.com/quietpelican42/pyjson v0.0.0
 	github.com/docker/go v1.5.1-1
 	github.com/goccy/go-json v0.11.1
 	github.com/gowebpki/jcs v1.0.2
@@ -22,4 +22,4 @@ require (
 	golang.org/x/sys v0.0.0-20211110154304-99a53858aa08 // indirect
 )
 
-replace github.com/__GH_OWNER__/pyjson => ../..
+replace github.com/quietpelican42/pyjson => ../..

@@ -20,11 +20,11 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	pj "github.com/__GH_OWNER__/pyjson"
 	dockerjson "github.com/docker/go/canonical/json"
 	goccy "github.com/goccy/go-json"
 	gowebpki "github.com/gowebpki/jcs"
 	jsoniter "github.com/json-iterator/go"
+	pj "github.com/quietpelican42/pyjson"
 	segmentio "github.com/segmentio/encoding/json"
 	tentjson "github.com/tent/canonical-json-go"
 	ucarion "github.com/ucarion/jcs"
